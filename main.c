@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.c"
 
 /**
 * free_data - frees data structure
