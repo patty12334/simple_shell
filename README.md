@@ -14,7 +14,7 @@ Who invented the B programming language (the direct predecessor to the C program
 
 Who is Ken Thompson
 
-How does a shell work
+How  a shell work
 
 What is a pid and a ppid
 
