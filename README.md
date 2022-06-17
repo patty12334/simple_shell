@@ -21,7 +21,7 @@ How to manipulate the environment of the current process
 
 What is the difference between a function and a system call
 
-How to create processes
+How to create processes.
 
 What are the three prototypes of main
 
